@@ -1,4 +1,5 @@
-## Text Generation
+# Question Answering
+
 ---
 Question answering (QA) is an important task that involves extracting answers to factual queries posed in natural language.
 Foundation Models (FMs) like Amazon Titan, Anthropic Claude, and Cohere Command are trained on vast amounts of text. From that training, they develop the probability distributions that can predict next token/word in an answer sequence when given a question.

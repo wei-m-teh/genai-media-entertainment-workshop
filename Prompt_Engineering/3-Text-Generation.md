@@ -1,4 +1,5 @@
-## Text Generation
+# Text Generation
+
 ---
 If you are working with a script (whether for movies, television, game, etc), Foundation Models (FMs) can assist in a number of ways.
 

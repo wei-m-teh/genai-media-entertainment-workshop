@@ -1,4 +1,5 @@
-## Text Generation
+# Image Generation
+
 ---
 Now that you have text generation, let's try image generation with Titan Image Generator and Stable Diffusion XL(SDXL) 1.0 on Bedrock.
 

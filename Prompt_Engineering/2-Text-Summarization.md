@@ -1,4 +1,5 @@
-## Text Generation
+# Text Summarization
+
 ---
 Picture yourself at a movie studio, or maybe a video streaming company. You get synopses all the time, and hardly have time to read them. In this Lab you will use Foundation Models (FMs) in Amazon Bedrock to summarize synopsis, so it is much easier to read and digest.
 
