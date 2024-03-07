@@ -1,7 +1,7 @@
 # Generative AI Media Entertainment Workshop on AWS
 
 ## Introduction
-This github repository contains the content for a workshop intended for customers in Media and entertainment who are interested to understand Generative AI and its capabilities. 
+This github repository contains the content for a workshop intended for customers in Media and Entertainment industry who are interested to learn about  Generative AI and its capabilities through hands on experience.
 
 At a high level, this repository contains workshop training material focused on the following topics:
 
