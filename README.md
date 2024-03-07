@@ -27,7 +27,7 @@ Please refer to this [Step-by-step guided instructions on the workshop website](
 
 
 ## Getting started
-Follow the instruction [here](https://catalog.us-east-1.prod.workshops.aws/workshops/c10312f0-aa83-4ba5-b908-599d80a75179/en-US/1-create-workspace-environment)
+Follow the detailed instruction [here](https://catalog.us-east-1.prod.workshops.aws/workshops/c10312f0-aa83-4ba5-b908-599d80a75179/en-US/1-create-workspace-environment) to setup your AWS environment.
 
 ## Content
 This repository contains notebook examples and instructions for the workshop. More detail can be found in the following:
